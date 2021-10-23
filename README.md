@@ -3,7 +3,7 @@
 - 🔭 Atualmente sou aluno de Ciêcia da Computação
 - 🌱 Estudando JavaScript
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/breneroliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breneroliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breneroliveira&layout=compact&langs_count=7&theme=tokyonight"/>
