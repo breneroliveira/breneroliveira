@@ -3,7 +3,7 @@
 - 🔭 Atualmente sou aluno de Ciêcia da Computação
 - 🌱 Estudando JavaScript
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/breneroliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breneroliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breneroliveira&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -15,7 +15,6 @@
   <img align="center" alt="Brener-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Brener-CPlusPlus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Brener-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 </div>
 
 ##
