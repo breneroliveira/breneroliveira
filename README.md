@@ -1,7 +1,6 @@
 ## Olá, seja bem-vindo ao meu perfil!
 
 - 🔭 Atualmente sou aluno de Ciência da Computação
-- 🌱 Estudando JavaScript
 
 <div align="left">
   <a href="https://github.com/breneroliveira">
